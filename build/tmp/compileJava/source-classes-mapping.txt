@@ -1,0 +1,22 @@
+in/automationtesting/practice/pruebas/utils/enums/URLEnum.java
+ in.automationtesting.practice.pruebas.utils.enums.URLEnum
+in/automationtesting/practice/pruebas/exceptions/InternetConnectionExcepction.java
+ in.automationtesting.practice.pruebas.exceptions.InternetConnectionExcepction
+in/automationtesting/practice/pruebas/tasks/CheckOutTask.java
+ in.automationtesting.practice.pruebas.tasks.CheckOutTask
+in/automationtesting/practice/pruebas/exceptions/ElementNotFoundException.java
+ in.automationtesting.practice.pruebas.exceptions.ElementNotFoundException
+in/automationtesting/practice/pruebas/tasks/BuyShopTask.java
+ in.automationtesting.practice.pruebas.tasks.BuyShopTask
+in/automationtesting/practice/pruebas/userinterfaces/HomeShopPage.java
+ in.automationtesting.practice.pruebas.userinterfaces.HomeShopPage
+in/automationtesting/practice/pruebas/tasks/OpenBrowserTask.java
+ in.automationtesting.practice.pruebas.tasks.OpenBrowserTask
+in/automationtesting/practice/pruebas/utils/enums/DataEnum.java
+ in.automationtesting.practice.pruebas.utils.enums.DataEnum
+in/automationtesting/practice/pruebas/utils/CheckInternetConnection.java
+ in.automationtesting.practice.pruebas.utils.CheckInternetConnection
+in/automationtesting/practice/pruebas/tasks/AddBasketTask.java
+ in.automationtesting.practice.pruebas.tasks.AddBasketTask
+in/automationtesting/practice/pruebas/questions/VerifyTotalQuestion.java
+ in.automationtesting.practice.pruebas.questions.VerifyTotalQuestion
